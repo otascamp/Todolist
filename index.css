@@ -5,7 +5,7 @@
 }
 
 body{
-	background-image: url(img/photoone.jpg);  /*linear-gradient(120deg, #f6d365 0%, #fda085 100%),*/
+/* 	background-image: /*url(img/photoone.jpg)*/linear-gradient(120deg, #f6d365 0%, #fda085 100%); 
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	opacity: 0.9;
